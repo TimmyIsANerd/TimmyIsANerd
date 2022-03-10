@@ -17,5 +17,5 @@ Expertise at writing Smart Contracts for Minting NFTs and Crypto Tokens.
 
 Well enough Proficiency using CSS and its libraries such as Bootstrap and TailWind.
 
-Stats 🔢
+##Stats 🔢
 ![Timmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimmyIsANerd&count_private=true&show_icons=true&theme=radical)
