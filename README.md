@@ -16,9 +16,11 @@ Well enough Proficiency using CSS and its libraries such as Bootstrap and TailWi
 
 I'm also Lead Tutor on a Discord Learning Platform called Hex-Academy
 
-
 ## Stats 🔢
 ![Timmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimmyIsANerd&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimmyIsANerd)](https://github.com/TimmyIsANerd/github-readme-stats)
 
+## Check Out My Portfolio Site
+[Portfolio Site](https://adefeyitimi.netlify.app)
 
 
