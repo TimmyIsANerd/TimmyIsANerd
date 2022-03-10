@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-Welcome to my Github Profile!
+## Welcome to my Github Profile!
 I'm Adefeyitimi (friends like to call me Timmy) ☺,
 I'm a software engineer adept in stages of web development, well knowledgable in building user interfaces, testing, server side coding, API building as well as debugging processes.
 Equipped with a promising skill-set and capacity to build Full Stack & Web3 Applications,
