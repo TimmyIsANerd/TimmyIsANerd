@@ -8,7 +8,7 @@ Skills:
 Strong Command of Javascript and its Front End Frameworks and Libraries.
 i.e. jQuery, ReactJs & Next Js.
 
-Proficient with Node, Express and Sails Js for Back End Services and building REST APIs.
+Proficient with Node, Express and Sails Js for Back End Services and building REST and GraphQL APIs.
 
 Knowledege of MongoDB, Etherjs, Web3js.
 Expertise at writing Smart Contracts for Minting NFTs and Crypto Tokens.
