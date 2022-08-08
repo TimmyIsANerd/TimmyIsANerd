@@ -23,7 +23,7 @@ I'm also Lead Tutor on a Discord Learning Platform called Hex-Academy
 
 ## Check Out My Portfolio Site
 [Click Here 🌐](https://adefeyitimi.netlify.app)
+Email: adefeyitimi@gmail.com
 
 ### Contact Me 
-Email: adefeyitimi@gmail.com
 [Telegram](https://t.me/timmythenerd)
