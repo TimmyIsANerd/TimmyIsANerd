@@ -22,7 +22,7 @@ I'm also Lead Tutor on a Discord Learning Platform called Hex-Academy
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimmyIsANerd)](https://github.com/TimmyIsANerd/github-readme-stats)
 
 ## Check Out My Portfolio Site
-[Click Here 🌐](https://adefeyitimi.netlify.app)
+[My Portfolio Page 🌐](https://adefeyitimi.netlify.app)
 Email: adefeyitimi@gmail.com
 
 ### Contact Me 
