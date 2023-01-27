@@ -14,7 +14,8 @@ Knowledege of MongoDB, Etherjs, Web3js.
 Expertise at writing Smart Contracts for Minting NFTs and Crypto Tokens.
 Well enough Proficiency using CSS and its libraries such as Bootstrap and TailWind.
 
-I'm also Lead Tutor on a Discord Learning Platform called Hex-Academy
+Currently CTO & Tech Instructor [@TechyJaunt](https://https://twitter.com/TechyJaunt).
+I teach Full Stack Development with JavaScript Technology.
 
 ## Stats 🔢
 ![Timmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimmyIsANerd&count_private=true&show_icons=true&theme=radical)
