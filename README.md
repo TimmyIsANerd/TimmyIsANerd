@@ -14,7 +14,7 @@ Knowledege of MongoDB, Etherjs, Web3js.
 Expertise at writing Smart Contracts for Minting NFTs and Crypto Tokens.
 Well enough Proficiency using CSS and its libraries such as Bootstrap and TailWind.
 
-Currently CTO & Tech Instructor [@TechyJaunt](https://https://twitter.com/TechyJaunt).
+Currently CTO of Vefi-Ecosystem.
 I teach Full Stack Development with JavaScript Technology.
 
 ## Stats 🔢
