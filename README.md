@@ -27,4 +27,4 @@ I teach Full Stack Development with JavaScript Technology.
 Email: adefeyitimi@gmail.com
 
 ### Contact Me 
-[Telegram](https://t.me/timmythenerd)
+[Telegram](https://t.me/theaethar)
