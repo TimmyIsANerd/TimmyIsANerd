@@ -10,7 +10,7 @@ i.e. jQuery, ReactJs & Next Js.
 
 Proficient with Node, Express and Sails Js for Back End Services, building REST APIs as well as working with GraphQL.
 
-Knowledege of MongoDB, Etherjs, Web3js.
+Knowledege of MongoDB, Etherjs, Web3js & Viem.
 Expertise at writing Smart Contracts for Minting NFTs and Crypto Tokens.
 Well enough Proficiency using CSS and its libraries such as Bootstrap and TailWind.
 
