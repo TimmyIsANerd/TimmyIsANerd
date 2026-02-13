@@ -1,30 +1,58 @@
-# Hi there 👋 Welcome to my Github Profile!
-I'm Adefeyitimi (friends like to call me Timmy) ☺,
-I'm a software engineer adept in stages of web development, well knowledgable in building user interfaces, testing, server side coding, API building as well as debugging processes.
-Equipped with a promising skill-set and capacity to build Full Stack & Web3 Applications,
-I possess skills that let me bring to life projects with the coolest look and feel, and I'm also able to effectively self-manage during independent projects, as well as collaborate in a team setting.
+# Hi there 👋 I'm Timmy
 
-Skills:
-Strong Command of Javascript and its Front End Frameworks and Libraries.
-i.e. jQuery, ReactJs & Next Js.
+I am an experienced **Chief Technology Officer** and Technical Leader specializing in the **Web3 ecosystem**. Currently serving as the **Co-Founder of Verge Innovation**, I have spent years architecting and scaling decentralized solutions across multiple startups.
 
-Proficient with Node, Express and Sails Js for Back End Services, building REST APIs as well as working with GraphQL.
+I focus on building high-performance teams and robust architectures that bridge the gap between complex blockchain technology and seamless user experiences.
 
-Knowledege of MongoDB, Etherjs, Web3js & Viem.
-Expertise at writing Smart Contracts for Minting NFTs and Crypto Tokens.
-Well enough Proficiency using CSS and its libraries such as Bootstrap and TailWind.
+---
 
-Currently CTO of Vefi-Ecosystem.
-I teach Full Stack Development with JavaScript Technology.
+## 🚀 At a Glance
 
-## Stats 🔢
-![Timmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimmyIsANerd&count_private=true&show_icons=true&theme=radical)
-## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimmyIsANerd)](https://github.com/TimmyIsANerd/github-readme-stats)
+- **Current Focus:** Building the future of Web3 at Verge Innovation.  
+- **Leadership:** CTO of multiple startups with a track record of taking products from concept to launch.  
+- **Specialties:** Full-stack architecture, Smart Contract engineering, and Telegram Bot Development.
 
-## Check Out My Portfolio Site
-[My Portfolio Page 🌐](https://adefeyitimi.netlify.app)
-Email: adefeyitimi@gmail.com
+---
 
-### Contact Me 
-[Telegram](https://t.me/theaethar)
+## 🛠 Technical Skill Set
+
+### Blockchain & Web3
+- Solidity  
+- Smart Contract Development (DeFi, NFTs, Tokens)  
+- Ethers.js  
+- Web3.js  
+- Viem  
+
+### Backend & Automation
+- Node.js  
+- Express.js  
+- Sails.js  
+- Telegram Bot API  
+- REST APIs  
+- GraphQL  
+
+### Frontend
+- React.js  
+- Next.js  
+- Tailwind CSS  
+- Bootstrap  
+
+### Database
+- MongoDB  
+
+---
+
+## 📈 Professional Background
+
+Beyond my current role at **Verge Innovation**, I have served as the CTO of **Vefi-Ecosystem** and have extensive experience mentoring the next generation of engineers through teaching Full Stack Development.
+
+I am adept at leading cross-functional teams to deliver scalable, production-ready code that drives real-world adoption.
+
+---
+
+## 💬 Contact Me
+
+I am always open to discussing technical leadership, Web3 innovation, and strategic partnerships.
+
+- **Telegram:** [@theaethar](https://t.me/theaethar)  
+- **Email:** adefeyitimi@gmail.com  
